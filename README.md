@@ -22,11 +22,12 @@ This interactive Power BI dashboard provides insights into rainfall and temperat
 - Cards, Bar Charts, and Custom Visuals for better storytelling
 
 ---
-
 ## 🖼️ Screenshots
 
 ### 📌 Rainfall and Temperature Dashboard
-C:\Users\Pradeep\OneDrive\Desktop\power bi projects\weather forecasting project\project overall files
+<img width="638" alt="Screenshot 2025-05-13 095447" src="https://github.com/user-attachments/assets/c07e1828-dbc7-479e-873f-b7f10a3a6359" />
+
+
 
 
 
